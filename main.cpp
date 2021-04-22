@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-float base, altura, resultado; 
+float base, altura, resultado; //son variables flotantes 
 int main() {
  cout<<"Ingrese la base "<<endl;
     cin>>base;
